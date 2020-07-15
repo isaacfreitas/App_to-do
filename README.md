@@ -1,2 +1,3 @@
 # App_to-do
-App em javascript que funciona como To-do,manipulando e fazendo o CRUD
+Primeiro projeto com Javascript abordando os conceitos
+básicos de manipulação de DOM e um CRUD básico.
